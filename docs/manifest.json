@@ -2,14 +2,14 @@
   "name": "抬头望星 - 现代化工具箱",
   "short_name": "抬头望星",
   "description": "一个美观实用的网页工具箱，提供计时器、单位转换、计算器、打字测试、网速测试等多种日常工具。支持深色模式、多语言和 PWA 离线使用。",
-  "start_url": "./",
+  "start_url": "/Ttwstar/",
   "display": "standalone",
   "background_color": "#f8fafc",
   "theme_color": "#2563EB",
   "orientation": "portrait-primary",
   "icons": [
     {
-      "src": "./vite.svg",
+      "src": "/Ttwstar/vite.svg",
       "sizes": "any",
       "type": "image/svg+xml"
     }

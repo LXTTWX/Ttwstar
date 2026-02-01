@@ -1,7 +1,7 @@
 const CACHE_NAME = 'ttwstar-v1.01.20260201.1';
 const STATIC_ASSETS = [
-  './',
-  './index.html'
+  '/Ttwstar/',
+  '/Ttwstar/index.html'
 ];
 
 const CACHE_STRATEGIES = {
